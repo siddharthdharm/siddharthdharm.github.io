@@ -163,7 +163,7 @@ html,body{
     background-size:cover;
     z-index:-10;
     background-color:#222;
-    background-image:url('../img/Ithaca/bg1-blur.jpg')
+    background-image:url('../img/bg1.jpg')
 }
 .scroll-img{
     opacity:0;
@@ -171,7 +171,7 @@ html,body{
     -moz-background-size:cover;
     -o-background-size:cover;
     background-size:cover;
-    background-image:url('../img/Ithaca/bg1.jpg')
+    background-image:url('../img/bg1.jpg')
 }
 .intro,.fame,.work,.about{
     padding:50px 0
@@ -213,7 +213,7 @@ i.work-icon{
     width:100%
 }
 .callout.work{
-    background:url(../img/gplex-blur.jpg);
+    background:url(../img/bg1.jpg);
     background-attachment:fixed;
     -webkit-background-size:cover;
     -moz-background-size:cover;
