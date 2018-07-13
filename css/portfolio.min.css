@@ -166,7 +166,7 @@ html,body{
     background-image:url('../img/bg1.jpg')
 }
 .scroll-img{
-    opacity:0;
+    /*opacity:0;*/
     -webkit-background-size:cover;
     -moz-background-size:cover;
     -o-background-size:cover;
